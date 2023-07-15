@@ -6,10 +6,11 @@
 [3. Обработка исходного набора данных](README.md#3.-Обработка-исходного-набора-данных)  
 [4. Выбор оптимального количества кластеров](README.md#4.-Выбор-оптимального-количества-кластеров)  
 [5. Результаты кластеризации](README.md#5.-Результаты-кластеризации)  
-* [5.1 EfficientNet](README.md#5.1-EfficientNet)  
-* [5.2 OSNet](README.md#5.2-OSNet)  
-* [5.3 vdc_color](README.md#5.3-vdc_color)  
-* [5.4 vdc_type](README.md#5.4-vdc_type)  
+[5.1 EfficientNet](README.md#5.1-EfficientNet)  
+[5.2 OSNet](README.md#5.2-OSNet)  
+[5.3 vdc_color](README.md#5.3-vdc_color)  
+[5.4 vdc_type](README.md#5.4-vdc_type)
+[6. Итоги](README.md#6.-Итоги)
 
 ### 1. Описание проекта
 Имеется набор из 416 314 изображений транспортных средств различных типов, цветов и снятых с разных ракурсов.
