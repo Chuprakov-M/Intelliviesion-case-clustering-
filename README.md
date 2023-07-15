@@ -9,7 +9,7 @@
 [5.1 EfficientNet](README.md#5.1-EfficientNet)  
 [5.2 OSNet](README.md#5.2-OSNet)  
 [5.3 vdc_color](README.md#5.3-vdc_color)  
-[5.4 vdc_type](README.md#5.4-vdc_type)
+[5.4 vdc_type](README.md#5.4-vdc_type)  
 [6. Итоги](README.md#6.-Итоги)
 
 ### 1. Описание проекта
